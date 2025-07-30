@@ -11,7 +11,16 @@ This repository contains the code for the I-Stem Task GenAI Voice Pipeline Agent
 
 ### Usage
 1. Clone the repository.
-2. Install the required dependencies using `uv sync`.
+2. Install the required dependencies using 
+```bash
+uv sync
+```
 3. Set up your environment variables in the `.env` file using `.env.example` in the `config/` directory.
-4. Run each task using the command `uv run -m task<number>.<file_name> console`.
-5. For example, to run the first task, use `uv run -m task1.baseline console`.
+4. Run each task using the command 
+```bash
+uv run -m task<number>.<file_name> console
+```
+5. For example, to run the first task, use 
+```bash
+uv run -m task1.baseline console
+```
