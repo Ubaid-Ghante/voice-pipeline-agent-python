@@ -1,0 +1,19 @@
+[project]
+name = "voice-pipeline-agent-python"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "kaleido>=1.0.0",
+    "livekit-agents~=1.0",
+    "livekit-plugins-cartesia~=1.0",
+    "livekit-plugins-deepgram~=1.0",
+    "livekit-plugins-noise-cancellation>=0.2.0,<1.0.0",
+    "livekit-plugins-openai~=1.0",
+    "livekit-plugins-silero~=1.0",
+    "livekit-plugins-turn-detector~=1.0",
+    "plotly>=6.2.0",
+    "pydantic-settings>=2.10.1",
+    "python-dotenv~=1.0",
+]
