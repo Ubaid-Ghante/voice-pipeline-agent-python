@@ -33,4 +33,4 @@ OR you can go through this pdf
 [<img src="./static/Task I-Stem.jpg">](./static/Task%20I-Stem.pdf)
 
 ##### Demo Video
-[<video src='./static/Screen Recording 2025-07-30 at 12.45.10 PM.mov' width=480/>](./static/Screen%20Recording%202025-07-30%20at%2012.45.10%C2%A0PM.mov)
+[Video](./static/Screen%20Recording%202025-07-30%20at%2012.45.10%C2%A0PM.mov)
